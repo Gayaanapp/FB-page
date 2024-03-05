@@ -69,7 +69,6 @@ const config = {
         title: 'Gayaan',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
         },
         items: [
           {
