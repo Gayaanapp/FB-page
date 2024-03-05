@@ -1,0 +1,27 @@
+{
+  "id": "Signup with Email Issue/input validation",
+  "title": "Input Validation",
+  "description": "",
+  "source": "@site/docs/2. Signup with Email Issue/3.input validation.md",
+  "sourceDirName": "2. Signup with Email Issue",
+  "slug": "/Signup with Email Issue/input validation",
+  "permalink": "/docs/Signup with Email Issue/input validation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. Signup with Email Issue/3.input validation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reset Password",
+    "permalink": "/docs/Signup with Email Issue/reset password"
+  },
+  "next": {
+    "title": "Major Integrations missing",
+    "permalink": "/docs/category/major-integrations-missing"
+  }
+}

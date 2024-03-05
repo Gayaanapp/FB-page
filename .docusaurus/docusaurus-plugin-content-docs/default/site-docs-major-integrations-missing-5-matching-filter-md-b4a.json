@@ -1,0 +1,25 @@
+{
+  "id": "Major Integrations missing/Matching filter",
+  "title": "Matching filter",
+  "description": "",
+  "source": "@site/docs/Major Integrations missing/5. Matching filter.md",
+  "sourceDirName": "Major Integrations missing",
+  "slug": "/Major Integrations missing/Matching filter",
+  "permalink": "/docs/Major Integrations missing/Matching filter",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Major Integrations missing/5. Matching filter.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Payment fail or successful",
+    "permalink": "/docs/Major Integrations missing/Payment fail or successful"
+  },
+  "next": {
+    "title": "Push notification",
+    "permalink": "/docs/Major Integrations missing/Push notification"
+  }
+}

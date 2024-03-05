@@ -1,0 +1,25 @@
+{
+  "id": "Major Integrations missing/chats",
+  "title": "chats",
+  "description": "",
+  "source": "@site/docs/Major Integrations missing/1.chats.md",
+  "sourceDirName": "Major Integrations missing",
+  "slug": "/Major Integrations missing/chats",
+  "permalink": "/docs/Major Integrations missing/chats",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Major Integrations missing/1.chats.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Major Integrations missing",
+    "permalink": "/docs/category/major-integrations-missing"
+  },
+  "next": {
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/Major Integrations missing/manage-docs-versions"
+  }
+}

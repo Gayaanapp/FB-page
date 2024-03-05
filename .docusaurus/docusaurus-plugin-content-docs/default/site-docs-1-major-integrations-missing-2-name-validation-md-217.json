@@ -1,0 +1,25 @@
+{
+  "id": "Major Integrations missing/Name validation",
+  "title": "Name validation",
+  "description": "",
+  "source": "@site/docs/1. Major Integrations missing/2. Name validation.md",
+  "sourceDirName": "1. Major Integrations missing",
+  "slug": "/Major Integrations missing/Name validation",
+  "permalink": "/docs/Major Integrations missing/Name validation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1. Major Integrations missing/2. Name validation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chats",
+    "permalink": "/docs/Major Integrations missing/chats"
+  },
+  "next": {
+    "title": "Payment fail or successful",
+    "permalink": "/docs/Major Integrations missing/Payment fail or successful"
+  }
+}

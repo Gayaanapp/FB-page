@@ -1,0 +1,21 @@
+{
+  "id": "Signup Profile issue/Upload photo",
+  "title": "Upload photo",
+  "description": "",
+  "source": "@site/docs/3. Signup Profile issue/3 . Upload photo.md",
+  "sourceDirName": "3. Signup Profile issue",
+  "slug": "/Signup Profile issue/Upload photo",
+  "permalink": "/docs/Signup Profile issue/Upload photo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. Signup Profile issue/3 . Upload photo.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DOB validation",
+    "permalink": "/docs/Signup Profile issue/DOB validation"
+  }
+}

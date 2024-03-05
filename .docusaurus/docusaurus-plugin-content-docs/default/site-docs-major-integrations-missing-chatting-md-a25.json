@@ -1,0 +1,20 @@
+{
+  "id": "Major Integrations missing/chatting",
+  "title": "chatting",
+  "description": "",
+  "source": "@site/docs/Major Integrations missing/chatting.md",
+  "sourceDirName": "Major Integrations missing",
+  "slug": "/Major Integrations missing/chatting",
+  "permalink": "/docs/Major Integrations missing/chatting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Major Integrations missing/chatting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/Major Integrations missing/translate-your-site"
+  }
+}

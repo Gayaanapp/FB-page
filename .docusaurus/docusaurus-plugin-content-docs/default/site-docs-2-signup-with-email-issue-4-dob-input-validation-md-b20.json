@@ -1,0 +1,25 @@
+{
+  "id": "Signup with Email Issue/DOB input validation",
+  "title": "DOB input validation",
+  "description": "",
+  "source": "@site/docs/2. Signup with Email Issue/4. DOB input validation.md",
+  "sourceDirName": "2. Signup with Email Issue",
+  "slug": "/Signup with Email Issue/DOB input validation",
+  "permalink": "/docs/Signup with Email Issue/DOB input validation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2. Signup with Email Issue/4. DOB input validation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "input validation",
+    "permalink": "/docs/Signup with Email Issue/input validation"
+  },
+  "next": {
+    "title": "Name validation",
+    "permalink": "/docs/Signup Profile issue/Name validation"
+  }
+}

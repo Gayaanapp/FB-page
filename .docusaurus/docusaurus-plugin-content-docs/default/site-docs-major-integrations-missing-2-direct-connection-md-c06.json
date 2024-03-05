@@ -1,0 +1,20 @@
+{
+  "id": "Major Integrations missing/2 Direct connection",
+  "title": "2 Direct connection",
+  "description": "",
+  "source": "@site/docs/Major Integrations missing/2 Direct connection.md",
+  "sourceDirName": "Major Integrations missing",
+  "slug": "/Major Integrations missing/2 Direct connection",
+  "permalink": "/docs/Major Integrations missing/2 Direct connection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Major Integrations missing/2 Direct connection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Somali Language",
+    "permalink": "/docs/Major Integrations missing/Somali Language"
+  }
+}

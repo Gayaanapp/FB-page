@@ -1,0 +1,27 @@
+{
+  "id": "Major Integrations missing/Payment fail or successful",
+  "title": "Payment responses.",
+  "description": "",
+  "source": "@site/docs/1. Major Integrations missing/4. Payment fail or successful.md",
+  "sourceDirName": "1. Major Integrations missing",
+  "slug": "/Major Integrations missing/Payment fail or successful",
+  "permalink": "/docs/Major Integrations missing/Payment fail or successful",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1. Major Integrations missing/4. Payment fail or successful.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Payment wih cards",
+    "permalink": "/docs/Major Integrations missing/Payment with cards"
+  },
+  "next": {
+    "title": "Matching Filter",
+    "permalink": "/docs/Major Integrations missing/Matching filter"
+  }
+}

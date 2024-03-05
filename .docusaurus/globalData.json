@@ -1,0 +1,138 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Major Integrations missing/2 Direct connection",
+              "path": "/docs/Major Integrations missing/2 Direct connection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Major Integrations missing/chats",
+              "path": "/docs/Major Integrations missing/chats",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Major Integrations missing/Matching filter",
+              "path": "/docs/Major Integrations missing/Matching filter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Major Integrations missing/Payment fail or successful",
+              "path": "/docs/Major Integrations missing/Payment fail or successful",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Major Integrations missing/Payment with cards",
+              "path": "/docs/Major Integrations missing/Payment with cards",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Major Integrations missing/Push notification",
+              "path": "/docs/Major Integrations missing/Push notification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Major Integrations missing/Somali Language",
+              "path": "/docs/Major Integrations missing/Somali Language",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Other Issues.md/Matching screen navigation iisue",
+              "path": "/docs/Other Issues.md/Matching screen navigation iisue",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Other Issues.md/profile view second photo",
+              "path": "/docs/Other Issues.md/profile view second photo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Other Issues.md/updato iisue",
+              "path": "/docs/Other Issues.md/updato iisue",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Signup Profile issue/DOB validation",
+              "path": "/docs/Signup Profile issue/DOB validation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Signup Profile issue/Force device location",
+              "path": "/docs/Signup Profile issue/Force device location",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Signup Profile issue/Name input validation",
+              "path": "/docs/Signup Profile issue/Name input validation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Signup Profile issue/SigupUpload photo",
+              "path": "/docs/Signup Profile issue/SigupUpload photo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Signup with Email Issue/input validation",
+              "path": "/docs/Signup with Email Issue/input validation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Signup with Email Issue/reset password",
+              "path": "/docs/Signup with Email Issue/reset password",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Signup with Email Issue/Signing with existing email",
+              "path": "/docs/Signup with Email Issue/Signing with existing email",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/missing-integeration",
+              "path": "/docs/category/missing-integeration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/signup-with-email-issues",
+              "path": "/docs/category/signup-with-email-issues",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/major-integrations-missing",
+              "path": "/docs/category/major-integrations-missing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/major-integrations-missing-1",
+              "path": "/docs/category/major-integrations-missing-1",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

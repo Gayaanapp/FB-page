@@ -1,0 +1,27 @@
+{
+  "id": "Major Integrations missing/Push notification",
+  "title": "Push Notification",
+  "description": "",
+  "source": "@site/docs/1. Major Integrations missing/6. Push notification.md",
+  "sourceDirName": "1. Major Integrations missing",
+  "slug": "/Major Integrations missing/Push notification",
+  "permalink": "/docs/Major Integrations missing/Push notification",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1. Major Integrations missing/6. Push notification.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Matching Filter",
+    "permalink": "/docs/Major Integrations missing/Matching filter"
+  },
+  "next": {
+    "title": "Somali Language",
+    "permalink": "/docs/Major Integrations missing/Somali Language"
+  }
+}

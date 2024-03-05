@@ -1,0 +1,27 @@
+{
+  "id": "Signup Profile issue/DOB validation",
+  "title": "DOB input validation",
+  "description": "",
+  "source": "@site/docs/3. Signup Profile issue/2. DOB validation.md",
+  "sourceDirName": "3. Signup Profile issue",
+  "slug": "/Signup Profile issue/DOB validation",
+  "permalink": "/docs/Signup Profile issue/DOB validation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. Signup Profile issue/2. DOB validation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Name input validation",
+    "permalink": "/docs/Signup Profile issue/Name input validation"
+  },
+  "next": {
+    "title": "Signup Uplaod photo Issue",
+    "permalink": "/docs/Signup Profile issue/SigupUpload photo"
+  }
+}

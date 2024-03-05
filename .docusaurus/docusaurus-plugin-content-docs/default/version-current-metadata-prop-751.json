@@ -1,0 +1,286 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Findings",
+        "href": "/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Missing Integeration",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Chats",
+            "href": "/docs/Major Integrations missing/chats",
+            "docId": "Major Integrations missing/chats",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Direct Connection",
+            "href": "/docs/Major Integrations missing/2 Direct connection",
+            "docId": "Major Integrations missing/2 Direct connection",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Payment wih cards",
+            "href": "/docs/Major Integrations missing/Payment with cards",
+            "docId": "Major Integrations missing/Payment with cards",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Payment responses.",
+            "href": "/docs/Major Integrations missing/Payment fail or successful",
+            "docId": "Major Integrations missing/Payment fail or successful",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Matching Filter",
+            "href": "/docs/Major Integrations missing/Matching filter",
+            "docId": "Major Integrations missing/Matching filter",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Push Notification",
+            "href": "/docs/Major Integrations missing/Push notification",
+            "docId": "Major Integrations missing/Push notification",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Somali Language",
+            "href": "/docs/Major Integrations missing/Somali Language",
+            "docId": "Major Integrations missing/Somali Language",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/missing-integeration"
+      },
+      {
+        "type": "category",
+        "label": "Signup With Email Issues",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Log with Existing Email",
+            "href": "/docs/Signup with Email Issue/Signing with existing email",
+            "docId": "Signup with Email Issue/Signing with existing email",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Reset Password",
+            "href": "/docs/Signup with Email Issue/reset password",
+            "docId": "Signup with Email Issue/reset password",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Input Validation",
+            "href": "/docs/Signup with Email Issue/input validation",
+            "docId": "Signup with Email Issue/input validation",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/signup-with-email-issues"
+      },
+      {
+        "type": "category",
+        "label": "Major Integrations missing",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Name input validation",
+            "href": "/docs/Signup Profile issue/Name input validation",
+            "docId": "Signup Profile issue/Name input validation",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "DOB input validation",
+            "href": "/docs/Signup Profile issue/DOB validation",
+            "docId": "Signup Profile issue/DOB validation",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Signup Uplaod photo Issue",
+            "href": "/docs/Signup Profile issue/SigupUpload photo",
+            "docId": "Signup Profile issue/SigupUpload photo",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Force Device Location",
+            "href": "/docs/Signup Profile issue/Force device location",
+            "docId": "Signup Profile issue/Force device location",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/major-integrations-missing"
+      },
+      {
+        "type": "category",
+        "label": "Major Integrations missing",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Update photo issue",
+            "href": "/docs/Other Issues.md/updato iisue",
+            "docId": "Other Issues.md/updato iisue",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "View second profile issue",
+            "href": "/docs/Other Issues.md/profile view second photo",
+            "docId": "Other Issues.md/profile view second photo",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Matching navigation issue",
+            "href": "/docs/Other Issues.md/Matching screen navigation iisue",
+            "docId": "Other Issues.md/Matching screen navigation iisue",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/major-integrations-missing-1"
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Findings",
+      "description": "1. Major Integrations missing:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Major Integrations missing/2 Direct connection": {
+      "id": "Major Integrations missing/2 Direct connection",
+      "title": "Direct Connection",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Major Integrations missing/chats": {
+      "id": "Major Integrations missing/chats",
+      "title": "Chats",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Major Integrations missing/Matching filter": {
+      "id": "Major Integrations missing/Matching filter",
+      "title": "Matching Filter",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Major Integrations missing/Payment fail or successful": {
+      "id": "Major Integrations missing/Payment fail or successful",
+      "title": "Payment responses.",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Major Integrations missing/Payment with cards": {
+      "id": "Major Integrations missing/Payment with cards",
+      "title": "Payment wih cards",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Major Integrations missing/Push notification": {
+      "id": "Major Integrations missing/Push notification",
+      "title": "Push Notification",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Major Integrations missing/Somali Language": {
+      "id": "Major Integrations missing/Somali Language",
+      "title": "Somali Language",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Other Issues.md/Matching screen navigation iisue": {
+      "id": "Other Issues.md/Matching screen navigation iisue",
+      "title": "Matching navigation issue",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Other Issues.md/profile view second photo": {
+      "id": "Other Issues.md/profile view second photo",
+      "title": "View second profile issue",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Other Issues.md/updato iisue": {
+      "id": "Other Issues.md/updato iisue",
+      "title": "Update photo issue",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Signup Profile issue/DOB validation": {
+      "id": "Signup Profile issue/DOB validation",
+      "title": "DOB input validation",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Signup Profile issue/Force device location": {
+      "id": "Signup Profile issue/Force device location",
+      "title": "Force Device Location",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Signup Profile issue/Name input validation": {
+      "id": "Signup Profile issue/Name input validation",
+      "title": "Name input validation",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Signup Profile issue/SigupUpload photo": {
+      "id": "Signup Profile issue/SigupUpload photo",
+      "title": "Signup Uplaod photo Issue",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Signup with Email Issue/input validation": {
+      "id": "Signup with Email Issue/input validation",
+      "title": "Input Validation",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Signup with Email Issue/reset password": {
+      "id": "Signup with Email Issue/reset password",
+      "title": "Reset Password",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Signup with Email Issue/Signing with existing email": {
+      "id": "Signup with Email Issue/Signing with existing email",
+      "title": "Log with Existing Email",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

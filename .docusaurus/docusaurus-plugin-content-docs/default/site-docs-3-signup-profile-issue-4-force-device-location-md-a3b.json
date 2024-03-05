@@ -1,0 +1,27 @@
+{
+  "id": "Signup Profile issue/Force device location",
+  "title": "Force Device Location",
+  "description": "",
+  "source": "@site/docs/3. Signup Profile issue/4. Force device location.md",
+  "sourceDirName": "3. Signup Profile issue",
+  "slug": "/Signup Profile issue/Force device location",
+  "permalink": "/docs/Signup Profile issue/Force device location",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3. Signup Profile issue/4. Force device location.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Signup Uplaod photo Issue",
+    "permalink": "/docs/Signup Profile issue/SigupUpload photo"
+  },
+  "next": {
+    "title": "Major Integrations missing",
+    "permalink": "/docs/category/major-integrations-missing-1"
+  }
+}

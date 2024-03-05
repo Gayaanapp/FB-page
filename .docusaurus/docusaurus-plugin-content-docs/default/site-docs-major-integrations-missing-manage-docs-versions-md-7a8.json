@@ -1,0 +1,27 @@
+{
+  "id": "Major Integrations missing/manage-docs-versions",
+  "title": "Manage Docs Versions",
+  "description": "Docusaurus can manage multiple versions of your docs.",
+  "source": "@site/docs/Major Integrations missing/manage-docs-versions.md",
+  "sourceDirName": "Major Integrations missing",
+  "slug": "/Major Integrations missing/manage-docs-versions",
+  "permalink": "/docs/Major Integrations missing/manage-docs-versions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Major Integrations missing/manage-docs-versions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chats",
+    "permalink": "/docs/Major Integrations missing/chats"
+  },
+  "next": {
+    "title": "Translate your site",
+    "permalink": "/docs/Major Integrations missing/translate-your-site"
+  }
+}

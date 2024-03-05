@@ -1,0 +1,25 @@
+{
+  "id": "Major Integrations missing/Mutual Connection",
+  "title": "Mutual Connection",
+  "description": "",
+  "source": "@site/docs/Major Integrations missing/1.Mutual Connection.md",
+  "sourceDirName": "Major Integrations missing",
+  "slug": "/Major Integrations missing/Mutual Connection",
+  "permalink": "/docs/Major Integrations missing/Mutual Connection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Major Integrations missing/1.Mutual Connection.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Major Integrations missing",
+    "permalink": "/docs/category/major-integrations-missing"
+  },
+  "next": {
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/Major Integrations missing/manage-docs-versions"
+  }
+}

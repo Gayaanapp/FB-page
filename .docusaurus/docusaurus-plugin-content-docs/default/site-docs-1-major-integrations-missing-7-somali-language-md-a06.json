@@ -1,0 +1,27 @@
+{
+  "id": "Major Integrations missing/Somali Language",
+  "title": "Somali Language",
+  "description": "",
+  "source": "@site/docs/1. Major Integrations missing/7. Somali Language.md",
+  "sourceDirName": "1. Major Integrations missing",
+  "slug": "/Major Integrations missing/Somali Language",
+  "permalink": "/docs/Major Integrations missing/Somali Language",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1. Major Integrations missing/7. Somali Language.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Push Notification",
+    "permalink": "/docs/Major Integrations missing/Push notification"
+  },
+  "next": {
+    "title": "Signup With Email Issues",
+    "permalink": "/docs/category/signup-with-email-issues"
+  }
+}
