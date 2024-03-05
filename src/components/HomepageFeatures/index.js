@@ -1,3 +1,6 @@
+import React, { useEffect } from 'react';
+import { useHistory } from 'react-router-dom'; // Assuming you're using React Router
+
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
@@ -50,6 +53,12 @@ function Feature({Svg, title, description}) {
 }
 
 export default function HomepageFeatures() {
+  const history = useHistory();
+
+  useEffect(() => {
+    history.push('/docs/intro');
+  }, []); // empty dependency array ensures this effect runs only once after initial render
+
   return (
     <section className={styles.features}>
       <div className="container">
