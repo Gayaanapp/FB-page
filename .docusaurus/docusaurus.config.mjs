@@ -48,7 +48,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Integration"
         }
       ],
       "hideOnScroll": false
