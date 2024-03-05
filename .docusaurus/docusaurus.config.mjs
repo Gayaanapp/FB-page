@@ -42,7 +42,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Gayaan",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
