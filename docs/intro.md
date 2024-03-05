@@ -2,9 +2,7 @@
 sidebar_position: 1
 ---
 
-# Phase2 Integeration test
-
-## Findings
+# Findings
 
 1. **Major Integrations missing:**
    - Mutual Connection is not available.
