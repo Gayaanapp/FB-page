@@ -69,6 +69,7 @@ const config = {
         title: 'Gayaan',
         logo: {
           alt: 'My Site Logo',
+          src: 'img/logo.svg',
         },
         items: [
           {
@@ -87,7 +88,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Integration',
+                label: 'Tutorial',
                 to: '/docs/intro',
               },
             ],

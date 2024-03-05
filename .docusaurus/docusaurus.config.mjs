@@ -64,7 +64,7 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Integration",
+              "label": "Tutorial",
               "to": "/docs/intro"
             }
           ]
