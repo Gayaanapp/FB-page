@@ -1,0 +1,15 @@
+{
+  "title": "Other Random Issues",
+  "slug": "/category/other-random-issues",
+  "permalink": "/docs/category/other-random-issues",
+  "navigation": {
+    "previous": {
+      "title": "Name & DOB input validation",
+      "permalink": "/docs/Signup Profile issue/Name input validation"
+    },
+    "next": {
+      "title": "View second profile issue",
+      "permalink": "/docs/Other Issues.md/profile view second photo"
+    }
+  }
+}

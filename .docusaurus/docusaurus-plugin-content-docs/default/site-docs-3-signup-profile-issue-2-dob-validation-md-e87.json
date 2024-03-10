@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Name input validation",
+    "title": "Name & DOB input validation",
     "permalink": "/docs/Signup Profile issue/Name input validation"
   },
   "next": {
-    "title": "Signup Uplaod photo Issue",
-    "permalink": "/docs/Signup Profile issue/SigupUpload photo"
+    "title": "Other Random Issues",
+    "permalink": "/docs/category/other-random-issues"
   }
 }

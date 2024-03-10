@@ -1,7 +1,7 @@
 {
   "id": "Signup with Email Issue/Signing with existing email",
-  "title": "Log with Existing Email",
-  "description": "",
+  "title": "Login Email & Reset Password",
+  "description": "<a href=\"https://www.figma.com/proto/9gD6jmx7VK0rVQBBxYTxf4/Existing-Email-%26-Reset-Password?type=design&node-id=14-447&t=PQCnllugImDtC8CZ-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=14%3A447&mode=design\"",
   "source": "@site/docs/2. Signup with Email Issue/1. Signing with existing email.md",
   "sourceDirName": "2. Signup with Email Issue",
   "slug": "/Signup with Email Issue/Signing with existing email",
@@ -21,7 +21,7 @@
     "permalink": "/docs/category/signup-with-email-issues"
   },
   "next": {
-    "title": "Reset Password",
-    "permalink": "/docs/Signup with Email Issue/reset password"
+    "title": "Input Validation",
+    "permalink": "/docs/Signup with Email Issue/input validation"
   }
 }

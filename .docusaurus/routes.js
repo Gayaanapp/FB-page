@@ -99,28 +99,16 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '410'),
+    component: ComponentCreator('/docs', 'a8e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '4dc'),
+        component: ComponentCreator('/docs', '18e'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'd31'),
+            component: ComponentCreator('/docs', '2b2'),
             routes: [
-              {
-                path: '/docs/category/major-integrations-missing',
-                component: ComponentCreator('/docs/category/major-integrations-missing', 'edf'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/category/major-integrations-missing-1',
-                component: ComponentCreator('/docs/category/major-integrations-missing-1', '9fb'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
               {
                 path: '/docs/category/missing-integeration',
                 component: ComponentCreator('/docs/category/missing-integeration', '7ef'),
@@ -128,8 +116,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/category/other-random-issues',
+                component: ComponentCreator('/docs/category/other-random-issues', '30b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/category/signup-with-email-issues',
                 component: ComponentCreator('/docs/category/signup-with-email-issues', '403'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/signup-with-profile-issues',
+                component: ComponentCreator('/docs/category/signup-with-profile-issues', '2f2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -188,44 +188,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Other Issues.md/updato iisue',
-                component: ComponentCreator('/docs/Other Issues.md/updato iisue', '17c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Signup Profile issue/DOB validation',
-                component: ComponentCreator('/docs/Signup Profile issue/DOB validation', 'f28'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Signup Profile issue/Force device location',
-                component: ComponentCreator('/docs/Signup Profile issue/Force device location', '226'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/Signup Profile issue/Name input validation',
                 component: ComponentCreator('/docs/Signup Profile issue/Name input validation', '6de'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Signup Profile issue/SigupUpload photo',
-                component: ComponentCreator('/docs/Signup Profile issue/SigupUpload photo', '799'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/Signup with Email Issue/input validation',
                 component: ComponentCreator('/docs/Signup with Email Issue/input validation', 'd4a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Signup with Email Issue/reset password',
-                component: ComponentCreator('/docs/Signup with Email Issue/reset password', '144'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

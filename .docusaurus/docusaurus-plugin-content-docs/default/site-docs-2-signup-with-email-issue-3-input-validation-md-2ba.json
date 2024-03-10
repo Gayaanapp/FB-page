@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Reset Password",
-    "permalink": "/docs/Signup with Email Issue/reset password"
+    "title": "Login Email & Reset Password",
+    "permalink": "/docs/Signup with Email Issue/Signing with existing email"
   },
   "next": {
-    "title": "Major Integrations missing",
-    "permalink": "/docs/category/major-integrations-missing"
+    "title": "Signup With profile Issues",
+    "permalink": "/docs/category/signup-with-profile-issues"
   }
 }

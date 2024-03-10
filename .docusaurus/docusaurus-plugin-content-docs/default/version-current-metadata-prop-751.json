@@ -75,16 +75,9 @@
         "items": [
           {
             "type": "link",
-            "label": "Log with Existing Email",
+            "label": "Login Email & Reset Password",
             "href": "/docs/Signup with Email Issue/Signing with existing email",
             "docId": "Signup with Email Issue/Signing with existing email",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Reset Password",
-            "href": "/docs/Signup with Email Issue/reset password",
-            "docId": "Signup with Email Issue/reset password",
             "unlisted": false
           },
           {
@@ -99,54 +92,26 @@
       },
       {
         "type": "category",
-        "label": "Major Integrations missing",
+        "label": "Signup With profile Issues",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Name input validation",
+            "label": "Name & DOB input validation",
             "href": "/docs/Signup Profile issue/Name input validation",
             "docId": "Signup Profile issue/Name input validation",
             "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "DOB input validation",
-            "href": "/docs/Signup Profile issue/DOB validation",
-            "docId": "Signup Profile issue/DOB validation",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Signup Uplaod photo Issue",
-            "href": "/docs/Signup Profile issue/SigupUpload photo",
-            "docId": "Signup Profile issue/SigupUpload photo",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Force Device Location",
-            "href": "/docs/Signup Profile issue/Force device location",
-            "docId": "Signup Profile issue/Force device location",
-            "unlisted": false
           }
         ],
-        "href": "/docs/category/major-integrations-missing"
+        "href": "/docs/category/signup-with-profile-issues"
       },
       {
         "type": "category",
-        "label": "Major Integrations missing",
+        "label": "Other Random Issues",
         "collapsible": true,
         "collapsed": true,
         "items": [
-          {
-            "type": "link",
-            "label": "Update photo issue",
-            "href": "/docs/Other Issues.md/updato iisue",
-            "docId": "Other Issues.md/updato iisue",
-            "unlisted": false
-          },
           {
             "type": "link",
             "label": "View second profile issue",
@@ -162,7 +127,7 @@
             "unlisted": false
           }
         ],
-        "href": "/docs/category/major-integrations-missing-1"
+        "href": "/docs/category/other-random-issues"
       }
     ]
   },
@@ -221,33 +186,9 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "Other Issues.md/updato iisue": {
-      "id": "Other Issues.md/updato iisue",
-      "title": "Update photo issue",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "Signup Profile issue/DOB validation": {
-      "id": "Signup Profile issue/DOB validation",
-      "title": "DOB input validation",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "Signup Profile issue/Force device location": {
-      "id": "Signup Profile issue/Force device location",
-      "title": "Force Device Location",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
     "Signup Profile issue/Name input validation": {
       "id": "Signup Profile issue/Name input validation",
-      "title": "Name input validation",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "Signup Profile issue/SigupUpload photo": {
-      "id": "Signup Profile issue/SigupUpload photo",
-      "title": "Signup Uplaod photo Issue",
+      "title": "Name & DOB input validation",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
@@ -257,16 +198,10 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "Signup with Email Issue/reset password": {
-      "id": "Signup with Email Issue/reset password",
-      "title": "Reset Password",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
     "Signup with Email Issue/Signing with existing email": {
       "id": "Signup with Email Issue/Signing with existing email",
-      "title": "Log with Existing Email",
-      "description": "",
+      "title": "Login Email & Reset Password",
+      "description": "<a href=\"https://www.figma.com/proto/9gD6jmx7VK0rVQBBxYTxf4/Existing-Email-%26-Reset-Password?type=design&node-id=14-447&t=PQCnllugImDtC8CZ-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=14%3A447&mode=design\"",
       "sidebar": "tutorialSidebar"
     }
   }

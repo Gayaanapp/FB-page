@@ -1,6 +1,6 @@
 {
   "id": "Signup Profile issue/Name input validation",
-  "title": "Name input validation",
+  "title": "Name & DOB input validation",
   "description": "",
   "source": "@site/docs/3. Signup Profile issue/1. Name input validation.md",
   "sourceDirName": "3. Signup Profile issue",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Major Integrations missing",
-    "permalink": "/docs/category/major-integrations-missing"
+    "title": "Signup With profile Issues",
+    "permalink": "/docs/category/signup-with-profile-issues"
   },
   "next": {
-    "title": "DOB input validation",
-    "permalink": "/docs/Signup Profile issue/DOB validation"
+    "title": "Other Random Issues",
+    "permalink": "/docs/category/other-random-issues"
   }
 }

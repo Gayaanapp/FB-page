@@ -56,38 +56,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Other Issues.md/updato iisue",
-              "path": "/docs/Other Issues.md/updato iisue",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Signup Profile issue/DOB validation",
-              "path": "/docs/Signup Profile issue/DOB validation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Signup Profile issue/Force device location",
-              "path": "/docs/Signup Profile issue/Force device location",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Signup Profile issue/Name input validation",
               "path": "/docs/Signup Profile issue/Name input validation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Signup Profile issue/SigupUpload photo",
-              "path": "/docs/Signup Profile issue/SigupUpload photo",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Signup with Email Issue/input validation",
               "path": "/docs/Signup with Email Issue/input validation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Signup with Email Issue/reset password",
-              "path": "/docs/Signup with Email Issue/reset password",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -106,13 +81,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/major-integrations-missing",
-              "path": "/docs/category/major-integrations-missing",
+              "id": "/category/signup-with-profile-issues",
+              "path": "/docs/category/signup-with-profile-issues",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/major-integrations-missing-1",
-              "path": "/docs/category/major-integrations-missing-1",
+              "id": "/category/other-random-issues",
+              "path": "/docs/category/other-random-issues",
               "sidebar": "tutorialSidebar"
             }
           ],
