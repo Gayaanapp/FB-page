@@ -31,11 +31,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Major Integrations missing/Payment fail or successful",
-              "path": "/docs/Major Integrations missing/Payment fail or successful",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Major Integrations missing/Payment with cards",
               "path": "/docs/Major Integrations missing/Payment with cards",
               "sidebar": "tutorialSidebar"

@@ -1,7 +1,7 @@
 {
   "id": "Major Integrations missing/Matching filter",
   "title": "Matching Filter",
-  "description": "",
+  "description": "<a href=\"https://www.figma.com/proto/d6eRsRb5kggPhhY5RSWjeg/Filter-Matching-screen?type=design&t=m9K8BXtgcQiI2i1h-1&scaling=scale-down&page-id=0%3A1&node-id=61-47&mode=design\"",
   "source": "@site/docs/1. Major Integrations missing/5. Matching filter.md",
   "sourceDirName": "1. Major Integrations missing",
   "slug": "/Major Integrations missing/Matching filter",
@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Payment responses.",
-    "permalink": "/docs/Major Integrations missing/Payment fail or successful"
+    "title": "Payment & Responses",
+    "permalink": "/docs/Major Integrations missing/Payment with cards"
   },
   "next": {
     "title": "Push Notification",

@@ -99,15 +99,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'f64'),
+    component: ComponentCreator('/docs', '410'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ea9'),
+        component: ComponentCreator('/docs', '4dc'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '186'),
+            component: ComponentCreator('/docs', 'd31'),
             routes: [
               {
                 path: '/docs/category/major-integrations-missing',
@@ -154,12 +154,6 @@ export default [
               {
                 path: '/docs/Major Integrations missing/Matching filter',
                 component: ComponentCreator('/docs/Major Integrations missing/Matching filter', '600'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Major Integrations missing/Payment fail or successful',
-                component: ComponentCreator('/docs/Major Integrations missing/Payment fail or successful', '1f0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

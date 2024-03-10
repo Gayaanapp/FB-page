@@ -186,17 +186,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-f64": {
+  "/docs-410": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-3-a-9-83d"
     }
   },
-  "/docs-ea9": {
+  "/docs-4dc": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-186": {
+  "/docs-d31": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/major-integrations-missing-edf": {
@@ -230,10 +230,6 @@
   "/docs/Major Integrations missing/Matching filter-600": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-major-integrations-missing-matching-filterae-2-0a9"
-  },
-  "/docs/Major Integrations missing/Payment fail or successful-1f0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-major-integrations-missing-payment-fail-or-successful-513-2c8"
   },
   "/docs/Major Integrations missing/Payment with cards-b31": {
     "__comp": "__comp---theme-doc-item-178-a40",

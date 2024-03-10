@@ -65,14 +65,14 @@
                 "permalink": "/docs/Major Integrations missing/chats"
               },
               "next": {
-                "title": "Payment wih cards",
+                "title": "Payment & Responses",
                 "permalink": "/docs/Major Integrations missing/Payment with cards"
               }
             },
             {
               "id": "Major Integrations missing/chats",
               "title": "Chats",
-              "description": "<a href=\"https://www.figma.com/proto/8nGqFjFgJruVgyt1N5safI/chating?type=design&node-id=67-619&t=ZRnfdiPHUteCncGu-1&scaling=scale-down&page-id=0%3A1&mode=design\" style={{",
+              "description": "<a href=\"https://www.figma.com/proto/8nGqFjFgJruVgyt1N5safI/chating?type=design&node-id=67-619&t=ZRnfdiPHUteCncGu-1&scaling=scale-down&page-id=0%3A1&mode=design\"",
               "source": "@site/docs/1. Major Integrations missing/1.chats.md",
               "sourceDirName": "1. Major Integrations missing",
               "slug": "/Major Integrations missing/chats",
@@ -99,7 +99,7 @@
             {
               "id": "Major Integrations missing/Matching filter",
               "title": "Matching Filter",
-              "description": "",
+              "description": "<a href=\"https://www.figma.com/proto/d6eRsRb5kggPhhY5RSWjeg/Filter-Matching-screen?type=design&t=m9K8BXtgcQiI2i1h-1&scaling=scale-down&page-id=0%3A1&node-id=61-47&mode=design\"",
               "source": "@site/docs/1. Major Integrations missing/5. Matching filter.md",
               "sourceDirName": "1. Major Integrations missing",
               "slug": "/Major Integrations missing/Matching filter",
@@ -115,8 +115,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Payment responses.",
-                "permalink": "/docs/Major Integrations missing/Payment fail or successful"
+                "title": "Payment & Responses",
+                "permalink": "/docs/Major Integrations missing/Payment with cards"
               },
               "next": {
                 "title": "Push Notification",
@@ -124,36 +124,9 @@
               }
             },
             {
-              "id": "Major Integrations missing/Payment fail or successful",
-              "title": "Payment responses.",
-              "description": "",
-              "source": "@site/docs/1. Major Integrations missing/4. Payment fail or successful.md",
-              "sourceDirName": "1. Major Integrations missing",
-              "slug": "/Major Integrations missing/Payment fail or successful",
-              "permalink": "/docs/Major Integrations missing/Payment fail or successful",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1. Major Integrations missing/4. Payment fail or successful.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Payment wih cards",
-                "permalink": "/docs/Major Integrations missing/Payment with cards"
-              },
-              "next": {
-                "title": "Matching Filter",
-                "permalink": "/docs/Major Integrations missing/Matching filter"
-              }
-            },
-            {
               "id": "Major Integrations missing/Payment with cards",
-              "title": "Payment wih cards",
-              "description": "",
+              "title": "Payment & Responses",
+              "description": "<a href=\"https://www.figma.com/proto/7VmTiOsJEpm0SvVwtdW6FW/Gayaan-Payment-method?type=design&node-id=970-799&t=K4V8Wqt67nOUn1Ox-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=970%3A799&show-proto-sidebar=1&mode=design\"",
               "source": "@site/docs/1. Major Integrations missing/3. Payment with cards.md",
               "sourceDirName": "1. Major Integrations missing",
               "slug": "/Major Integrations missing/Payment with cards",
@@ -173,8 +146,8 @@
                 "permalink": "/docs/Major Integrations missing/2 Direct connection"
               },
               "next": {
-                "title": "Payment responses.",
-                "permalink": "/docs/Major Integrations missing/Payment fail or successful"
+                "title": "Matching Filter",
+                "permalink": "/docs/Major Integrations missing/Matching filter"
               }
             },
             {
@@ -522,10 +495,6 @@
                   {
                     "type": "doc",
                     "id": "Major Integrations missing/Payment with cards"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Major Integrations missing/Payment fail or successful"
                   },
                   {
                     "type": "doc",
