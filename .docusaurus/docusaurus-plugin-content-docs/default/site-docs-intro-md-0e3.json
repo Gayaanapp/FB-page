@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "Findings",
-  "description": "1. Major Integrations missing:",
+  "description": "1. Missing Integeration",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",

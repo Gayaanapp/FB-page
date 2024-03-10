@@ -99,15 +99,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a8e'),
+    component: ComponentCreator('/docs', '055'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '18e'),
+        component: ComponentCreator('/docs', '1b3'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '2b2'),
+            component: ComponentCreator('/docs', 'b87'),
             routes: [
               {
                 path: '/docs/category/missing-integeration',
@@ -122,14 +122,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/signup-with-email-issues',
-                component: ComponentCreator('/docs/category/signup-with-email-issues', '403'),
+                path: '/docs/category/signup-profile-issues',
+                component: ComponentCreator('/docs/category/signup-profile-issues', '683'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/signup-with-profile-issues',
-                component: ComponentCreator('/docs/category/signup-with-profile-issues', '2f2'),
+                path: '/docs/category/signup-with-email-issues',
+                component: ComponentCreator('/docs/category/signup-with-email-issues', '403'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

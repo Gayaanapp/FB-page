@@ -22,7 +22,7 @@
             {
               "id": "intro",
               "title": "Findings",
-              "description": "1. Major Integrations missing:",
+              "description": "1. Missing Integeration",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -273,8 +273,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Signup With profile Issues",
-                "permalink": "/docs/category/signup-with-profile-issues"
+                "title": "Signup Profile Issues",
+                "permalink": "/docs/category/signup-profile-issues"
               },
               "next": {
                 "title": "Other Random Issues",
@@ -304,8 +304,8 @@
                 "permalink": "/docs/Signup with Email Issue/Signing with existing email"
               },
               "next": {
-                "title": "Signup With profile Issues",
-                "permalink": "/docs/category/signup-with-profile-issues"
+                "title": "Signup Profile Issues",
+                "permalink": "/docs/category/signup-profile-issues"
               }
             },
             {
@@ -403,7 +403,7 @@
               },
               {
                 "type": "category",
-                "label": "Signup With profile Issues",
+                "label": "Signup Profile Issues",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -414,8 +414,8 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/signup-with-profile-issues",
-                  "permalink": "/docs/category/signup-with-profile-issues"
+                  "slug": "/category/signup-profile-issues",
+                  "permalink": "/docs/category/signup-profile-issues"
                 }
               },
               {

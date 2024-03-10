@@ -92,7 +92,7 @@
       },
       {
         "type": "category",
-        "label": "Signup With profile Issues",
+        "label": "Signup Profile Issues",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -104,7 +104,7 @@
             "unlisted": false
           }
         ],
-        "href": "/docs/category/signup-with-profile-issues"
+        "href": "/docs/category/signup-profile-issues"
       },
       {
         "type": "category",
@@ -135,7 +135,7 @@
     "intro": {
       "id": "intro",
       "title": "Findings",
-      "description": "1. Major Integrations missing:",
+      "description": "1. Missing Integeration",
       "sidebar": "tutorialSidebar"
     },
     "Major Integrations missing/2 Direct connection": {

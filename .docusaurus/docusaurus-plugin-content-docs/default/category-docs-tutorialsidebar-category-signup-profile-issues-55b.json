@@ -1,0 +1,15 @@
+{
+  "title": "Signup  profile Issues",
+  "slug": "/category/signup--profile-issues",
+  "permalink": "/docs/category/signup--profile-issues",
+  "navigation": {
+    "previous": {
+      "title": "Input Validation",
+      "permalink": "/docs/Signup with Email Issue/input validation"
+    },
+    "next": {
+      "title": "Name & DOB input validation",
+      "permalink": "/docs/Signup Profile issue/Name input validation"
+    }
+  }
+}
